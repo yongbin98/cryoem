@@ -1,6 +1,5 @@
-# Patch-CNN based Deep Learning Model for Cryo-Electron Mi-croscopy Image Quality Classification
-
-***This is sample dataset of cryo-electron micrography image for the paper "Patch-CNN based Deep Learning Model for Cryo-Electron Mi-croscopy Image Quality Classification".***
+# Deep Learning Model for Cryo-Electron Microscopy Image Quality Classification
+***This is sample dataset of cryo-electron micrography image for the paper "Deep Learning Model for Cryo-Electron Microscopy Image Quality Classification".***
 
 ***You can download the dataset by clicking "Code" -> "Download ZIP".***
 # Abstract
